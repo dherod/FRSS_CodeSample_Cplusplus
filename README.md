@@ -1,0 +1,35 @@
+﻿# Code Sample in C++ 
+# submitted for a job interview. (I got the job!)
+
+
+Please read the following scenarios and submit a solution for each scenario based on the guidelines.  
+Solutions will be evaluated for 
+	solution correctness, 
+	general coding style, 
+	maintainability, 
+	and level of documentation.  
+
+Each solution should include:
+
+- A Visual Studio Solution File (.sln) which references all of the necessary projects and can be used to build and execute the application.
+
+- Enough code (usually a simple console application will do) to demonstrate using the solution to the scenario and that it produces correct output.
+
+- If any additional components or libraries are required, those components should either be included with the solution or listed in a document with hyperlinks for download.
+
+- Some level of code documentation, either through in-line comments or in a separate document, which details your approach to the solution.  
+		
+The documentation should be written based on the assumption that other developers would want to review or reuse your code.
+
+
+Scenario 1
+Write a struct definition to represent the qualities of a circle.  
+Choose appropriate data types and values to represent diameter, radius, center coordinates, whether the circle is filled (background color) and what that color is, or transparent. 
+You may use enumerated types if it helps with the definition of any of the fields.
+
+
+Scenario 2
+Write a basic Time class, using the value from the C Standard library time() function.  
+It should provide appropriate constructors, a copy constructor, and get/set functions for hours, minutes, seconds as well as a reset function (defaults to the current time).  
+Create a simple console application to demonstrate the class and provide basic instructions to a new user through some means.
+
