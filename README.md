@@ -1,5 +1,6 @@
 ﻿# Code Sample in C++ 
-# submitted for a job interview. (I got the job!)
+# This was submitted for a job interview. 
+# (I got the job!)
 
 
 Please read the following scenarios and submit a solution for each scenario based on the guidelines.  
