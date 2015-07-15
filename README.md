@@ -3,9 +3,7 @@
 This was submitted for a job interview.
 The submitted rar files are included as well as the uncompressed code in this repository.
 Run the following console apps in a cmd window to see the demos:
-FR.Demo.Circle\Debug\FrDemoCircle.exe
-FR.Demo.Time\Debug\FrDemoTime.exe
-TestLibraryExe\Debug\TestLibraryExe.exe
+FR.Demo.Circle\Debug\FrDemoCircle.exe, FR.Demo.Time\Debug\FrDemoTime.exe, TestLibraryExe\Debug\TestLibraryExe.exe
 
 Here are the requirements I was given:
 
